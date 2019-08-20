@@ -205,7 +205,7 @@ lujvoには「得点」が割り振られている。同じrafsi列から作ら�
 
 > Each gismu always has at least two rafsi forms; one is the gismu itself (used only at the end of a lujvo), and one is the gismu without its final vowel (used only at the beginning or middle of a lujvo).
 
-という記述ををbroda, brode, brodi, brodo, broduに当てはめれば、-brod-はこの5種のgismuを表すrafsiになるはずだが、そうするとその直前にある
+という記述をbroda, brode, brodi, brodo, broduに当てはめれば、-brod-はこの5種のgismuを表すrafsiになるはずだが、そうするとその直前にある
 
 > each such rafsi represents only one gismu.
 
